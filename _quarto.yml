@@ -1,0 +1,26 @@
+project:
+  type: website
+  resources:
+    - resume/Shreya_Kuthpadi_Resume.pdf
+
+website:
+  title: "Shreya Kuthpadi"
+  page-navigation: false 
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: resume/Shreya_Kuthpadi_Resume.pdf
+        text: Resume
+        target: _blank
+
+format:
+  html:
+    theme:
+      - lux
+      - brand
+    css: styles.css
+    toc: true
+
+
+

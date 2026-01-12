@@ -1,0 +1,34 @@
+.about-wrapper h2 {
+  clear: none;
+  margin-top: 0;
+}
+
+.about-media {
+  float: left;
+  width: 220px;
+  margin: 0 2rem 1rem 0;
+  text-align: center;
+}
+
+.headshot {
+  width: 200px;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  margin-bottom: 0.85rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+}
+
+.social-icons a {
+  font-size: 1.4rem;
+  color: #374151;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #2563eb;
+}
