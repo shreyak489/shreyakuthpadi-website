@@ -7,7 +7,7 @@ title: "Shreya Kuthpadi"
 ![](images/headshot.jpg){.headshot}
 
 <div class="social-icons">
-  <a href="https://www.linkedin.com/in/shreya-kuthpadi" target="_blank" aria-label="LinkedIn">
+  <a href="www.linkedin.com/in/shreya-kuthpadi-44a443263" target="_blank" aria-label="LinkedIn">
     <i class="bi bi-linkedin"></i>
   </a>
   <a href="mailto:shreya.kuthpadi@rutgers.edu" aria-label="Email">
